@@ -1,1 +1,2 @@
-# sad-bruh
+# Link Embeds
+# Only Workds On Discord
